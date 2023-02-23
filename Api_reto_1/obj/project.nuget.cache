@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "90T5Bio8gkubdlrTobap8Jv4n1kzOuC0tLBz2svCpwOggMk3Ylaxe4MT8QMdDt8fwGLBSDmyoeHlHCrpbuW70w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\usergeneric\\source\\repos\\Api_reto_1\\Api_reto_1\\Api_reto_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usergeneric\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\usergeneric\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\usergeneric\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\usergeneric\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\usergeneric\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\usergeneric\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
